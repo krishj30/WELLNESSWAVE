@@ -1,0 +1,92 @@
+{
+    "Nervousness": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 3.004,
+        "std": 1.3956646300308102
+    },
+    "Panic_attacks": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 3.04,
+        "std": 1.4136466296734749
+    },
+    "Trouble_relaxing": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 2.944,
+        "std": 1.4370086944677656
+    },
+    "Social_avoidance": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 2.906,
+        "std": 1.4188694022923756
+    },
+    "Excessive_worry": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 3.034,
+        "std": 1.4397881719058259
+    },
+    "Sleep_difficulty": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 3.08,
+        "std": 1.3774595419028313
+    },
+    "Lightheadedness": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 3.064,
+        "std": 1.3869936924896278
+    },
+    "Physical_symptoms": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 2.888,
+        "std": 1.3868318590263278
+    },
+    "Concentration_issues": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 2.96,
+        "std": 1.3893381593557719
+    },
+    "Impending_doom": {
+        "type": "numerical",
+        "range": [
+            1,
+            5
+        ],
+        "mean": 3.058,
+        "std": 1.3807421547108611
+    }
+}
